@@ -2,6 +2,7 @@
    
    
    U fajlu DataAugmentation.ipynb se nalazi kod korišćen za augmentaciju trening podataka.
+   
    U fajlu AnimalFootprintRecognition.ipynb je kod za treniranje cnn i predikciju.
    
    Za pokretanje treniranja mreže ili predikcije nad testnim skupom podataka potrebno je AnimalFootprintRecognition.ipynb
